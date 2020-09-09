@@ -29,10 +29,10 @@ App runs a basic spell checking program (Run the SpellCorrector.py file).
 ## Support & Contact Details
 karari.alexander@gmail.com or TP056742@mail.apu.edu.my
 
-{2020}
+### Project year
+2020 
 
 ### Contributors
-**{TP038434@mail.apu.edu.my
-   TP032076@mail.apu.edu.my
-   TP057392@mail.apu.edu.my
-   }**
+1. TP038434@mail.apu.edu.my
+2. TP032076@mail.apu.edu.my
+3. TP057392@mail.apu.edu.my
